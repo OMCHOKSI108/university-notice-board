@@ -1,0 +1,216 @@
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Pods/
+linux/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+ios/Flutter/App.framework
+ios/Flutter/App.framework
+macos/Flutter/App.framework
+macos/Flutter/App.framework
+linux/Flutter/App.framework
+linux/Flutter/App.framework
+windows/Flutter/App.framework
+windows/Flutter/App.framework
+
+# Android
+android/app/build/
+android/.gradle/
+android/gradle/
+android/local.properties
+android/.idea/
+android/.settings/
+android/.classpath
+android/.project
+android/app/google-services.json
+
+# iOS
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.generated/
+
+# macOS
+macos/.symlinks/
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Pods/
+macos/.generated/
+
+# Windows
+windows/.symlinks/
+windows/Flutter/Flutter.framework
+windows/Flutter/Flutter.podspec
+windows/.generated/
+
+# Linux
+linux/.symlinks/
+linux/Flutter/Flutter.framework
+linux/Flutter/Flutter.podspec
+linux/.generated/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+
+# Test results
+test-results/
+
+# Screenshots
+screenshots/
+
+# Local configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# Keystore
+android/app/*.jks
+android/app/*.keystore
+
+# API keys
+api_keys.json
+secrets.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated files
+lib/generated/
+*.g.dart
+*.freezed.dart
+
+# Analysis
+analysis_options.yaml.backup
+
+# Pub
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+*.app
+*.dmg
+*.deb
+*.rpm
+*.snap
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Local development
+debug.log
+*.pem
+
+# VS Code
+.history/
+*.code-workspace
+
+# Android Studio
+*.iml
+.gradle/
+local.properties
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Temporary folders
+tmp/
+temp/
+
+# Miscellaneous
+*.class
+*.pyc
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.ipr
+*.iws
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
