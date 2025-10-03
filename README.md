@@ -173,7 +173,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **OM CHOKSI**
 - GitHub: [@OMCHOKSI108](https://github.com/OMCHOKSI108)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [OMCHOKSI](https://linkedin.com/in/OMCHOKSI)
 
 ## Acknowledgments
 
